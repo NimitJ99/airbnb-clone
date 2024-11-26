@@ -48,4 +48,4 @@ This project is a clone of the Airbnb website, built using modern web developmen
 
 ## Contact
 
-For any questions or inquiries, please contact [nimitjogani62@gmail.com].
+For any questions or inquiries, please contact [Email](nimitjogani62@gmail.com).
