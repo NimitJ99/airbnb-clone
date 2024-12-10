@@ -27,7 +27,7 @@ This project is a clone of the Airbnb website, built using modern web developmen
 
 1. Clone the repository:
      ```bash
-     git clone https://github.com/yourusername/airbnb-clone.git
+     git clone https://github.com/NimitJ99/airbnb-clone.git
      ```
 2. Navigate to the project directory:
      ```bash
